@@ -1,0 +1,10 @@
+{
+  "name": "performance-monitor-wrj",
+  "version": "1.0.0",
+  "description": "A plugin to monitor page performance metrics",
+  "main": "./src/index.js",
+  "scripts": {},
+  "devDependencies": {},
+  "author": "wrj",
+  "license": "MIT"
+}
