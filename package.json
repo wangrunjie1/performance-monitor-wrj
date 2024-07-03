@@ -1,8 +1,14 @@
 {
   "name": "performance-monitor-wrj",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A plugin to monitor page performance metrics",
   "main": "./src/index.js",
+  "keywords": [
+    "performance",
+    "monitor",
+    "performance-monitor",
+    "wrj"
+  ],
   "scripts": {},
   "devDependencies": {},
   "author": "wrj",
