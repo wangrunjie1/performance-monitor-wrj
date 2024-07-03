@@ -1,6 +1,6 @@
 {
   "name": "performance-monitor-wrj",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A plugin to monitor page performance metrics",
   "main": "./src/index.js",
   "scripts": {},
